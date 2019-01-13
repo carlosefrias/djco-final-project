@@ -34,3 +34,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+*.zip
+*.rar
+*.doc
+*.docx
+*.exe
+
+/Projeto Final/Final com melhoramentos/Executável/
